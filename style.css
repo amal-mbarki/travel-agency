@@ -1,0 +1,26 @@
+body{
+    background: rgb(231, 231, 223);
+     
+
+}
+
+form{
+    background:rgb(231, 231, 223)
+
+}
+#card-text{
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+    color: red;
+}
+#card-text2{
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+    color: red;
+}
+#card-text3{
+    color: red;
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+
+}
